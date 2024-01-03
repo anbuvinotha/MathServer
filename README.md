@@ -134,7 +134,6 @@ urlpatterns = [
 
 
 # HOMEPAGE:
-
 ![Alt text](<Screenshot (16).png>)
 
 
